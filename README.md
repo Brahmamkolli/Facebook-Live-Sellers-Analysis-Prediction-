@@ -1,4 +1,4 @@
-# Facebook Live Sellers Analysis & Prediction
+# Facebook Live Sellers Engagement Analysis
 
 ## 📌 Project Overview
 This project explores and builds a machine learning classification model using Facebook Live Sellers data. The dataset includes metrics such as reactions, comments, shares, and other engagement indicators. The project covers data exploration, preprocessing, feature engineering, model training, evaluation, and deployment.
